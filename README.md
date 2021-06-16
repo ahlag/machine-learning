@@ -1,6 +1,7 @@
-Courses
+## Courses
 
 1. Recommender System
+
 https://www.coursera.org/learn/recommender-systems-introduction/home/welcome
 
 2. Deep Learning
